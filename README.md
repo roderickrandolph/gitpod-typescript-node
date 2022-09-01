@@ -1,4 +1,5 @@
 # A TypeScript / Node.js template on Gitpod
+This is a small change.
 
 This is a [TypeScript / Node.js](https://github.com/microsoft/TypeScript-Node-Starter) template configured for ephemeral development environments on [Gitpod](https://www.gitpod.io/).
 
